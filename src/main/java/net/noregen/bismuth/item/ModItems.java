@@ -15,6 +15,8 @@ public class ModItems {
             new Item(new FabricItemSettings()));
     public static final Item MORGANITE = registerItem("morganite",
             new Item(new FabricItemSettings()));
+    public static final Item HORNBLENDE = registerItem("hornblende",
+            new Item(new FabricItemSettings()));
 
 
     private static Item registerItem(String name, Item item){
@@ -24,6 +26,7 @@ public class ModItems {
     private static void addItemsToItemGroup(){
         addToItemGroup(ModItemGroup.BISMUTH, MORGANITE);
         addToItemGroup(ModItemGroup.BISMUTH, RAW_MORGANITE);
+        addToItemGroup(ModItemGroup.BISMUTH, HORNBLENDE);
     }
 
     private static void addToItemGroup(ItemGroup group, Item item){

@@ -1,4 +1,12 @@
 {
   "item.bismuth.raw_morganite": "Raw Morganite",
-  "item.bismuth.morganite": "Morganite"
+  "item.bismuth.morganite": "Morganite",
+  "item.bismuth.hornblende": "HornBlende",
+
+  "block.bismuth.hornblende_block": "HornBlende Block",
+  "block.bismuth.hornblende_ore": "HornBlende Ore",
+  "block.bismuth.deepslate_hornblende_ore": "Deepslate HornBlende Ore",
+  "block.bismuth.morganite_block": "Morganite Block",
+  "block.bismuth.morganite_ore": "Morganite Ore",
+  "block.bismuth.morganite_hornblende_ore": "Morganite HornBlende Ore"
 }
