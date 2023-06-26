@@ -1,6 +1,8 @@
 package net.noregen.bismuth;
 
 import net.fabricmc.api.ModInitializer;
+import net.noregen.bismuth.item.ModItemGroup;
+import net.noregen.bismuth.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,6 +12,9 @@ public class Bismuth implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItemGroup.registerItemGroups();
+		ModItems.registerModItems();
 
 	}
 }
