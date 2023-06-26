@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bismuth:hornblende_block"
+    }
+  ],
+  "result": {
+    "item": "bismuth:hornblende",
+    "count": 9
+  }
+}

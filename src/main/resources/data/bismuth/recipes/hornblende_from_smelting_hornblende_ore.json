@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "diamond",
+  "ingredient": {
+    "item": "bismuth:hornblende_ore"
+  },
+  "result": "bismuth:hornblende"
+
+}

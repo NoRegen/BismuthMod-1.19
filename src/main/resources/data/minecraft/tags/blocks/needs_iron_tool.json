@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bismuth:morganite_ore",
+    "bismuth:morganite_block",
+    "bismuth:deepslate_morganite_ore",
+    "bismuth:hornblende_ore",
+    "bismuth:hornblende_block",
+    "bismuth:deepslate_hornblende_ore"
+  ]
+}

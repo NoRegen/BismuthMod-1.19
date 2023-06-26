@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bismuth:morganite_block"
+    }
+  ],
+  "result": {
+    "item": "bismuth:morganite",
+    "count": 9
+  }
+}
